@@ -1,0 +1,14 @@
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\bin\Debug\net8.0\task1.exe
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\bin\Debug\net8.0\task1.deps.json
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\bin\Debug\net8.0\task1.dll
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\bin\Debug\net8.0\task1.pdb
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.dll
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\refint\task1.dll
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.pdb
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+C:\Users\Win10Pro\Desktop\GB_P_Final\task1\obj\Debug\net8.0\ref\task1.dll
